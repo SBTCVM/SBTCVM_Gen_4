@@ -1,0 +1,9 @@
+[package]
+name = "sbtcvm-balter"
+version = "0.1.0"
+authors = ["WolfSkin Torske <m.schon@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+custom_error = "1.8.0"
+bitvec = "0.20.1"
